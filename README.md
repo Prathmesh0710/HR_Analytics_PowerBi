@@ -1,4 +1,4 @@
-# HR_Analytics
+# HR Analytics Dashboard
 
 # Project Description
 An HR Analytics Dashboard in Power BI analyzes employee attrition within an organization. The dashboard's objective is to identify patterns, trends, and potential factors contributing to employee turnover. The dashboard can also categorize attrition into voluntary and involuntary. It can also be segmented by criteria such as tenure, seniority, gender, or age. The dashboard provides attrition insights based on variables such as: Education, Age, Job role, Years at the company, Salary range, etc. 
